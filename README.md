@@ -1,6 +1,6 @@
 # CanTek-Week2-SQL
 
-This project is an assignment for cantek's data analysist program. This is about creating a PostgreSQL database for a DVD rental company.
+This project is an assignment for cantek's data analysis program. This is about creating a PostgreSQL database for a DVD rental company.
 
 DATA contains 15 tables:
 actor
